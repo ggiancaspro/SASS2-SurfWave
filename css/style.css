@@ -1,0 +1,26 @@
+.text-center {
+  background-image: url(../img/sand.jpg);
+  height: 200px; }
+  .text-center h1 {
+    font-size: 7rem;
+    color: rgba(0, 0, 0, 0.722); }
+
+.container-fluid {
+  background-color: #dd9f0c;
+  border: 2px solid deepskyblue; }
+  .container-fluid .navbar-brand {
+    font-size: 2rem; }
+  .container-fluid .nav-link {
+    font-size: 2rem; }
+
+h2 {
+  text-align: center;
+  font-size: 3rem; }
+
+.lead {
+  margin: 3rem; }
+
+.fotSurf {
+  border: solid 2px goldenrod;
+  border-radius: 5%;
+  width: 30rem; }
